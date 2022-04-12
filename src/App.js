@@ -69,7 +69,7 @@ function App() {
              At Rocket.io we are passionate about software
           </Typography>
           <Typography variant="h5" className={classes.littleSpace} color="primary">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sodales congue tristique. Cras non pretium sem. Duis interdum lorem sit amet ligula pretium, sed rutrum urna semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus egestas gravida ullamcorper.
+             This is just a demo project for teaching React.  If you have any questions please contact Simon Hewins via LinkedIn
           </Typography>
         </div>
         <div className={`${classes.grid} ${classes.bigSpace}`}>
